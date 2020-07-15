@@ -1,4 +1,4 @@
-### My name is Pranshu Prakash Pandey. I am proud of how long that is. :triumph:
+## My name is Pranshu Prakash Pandey. I am proud of how long that is. :triumph:
 
 <!--
 **pranshuprakashpandey/pranshuprakashpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - :bowtie: I work in Cyber Security
 - :octocat: Developer for fun
 - :cyclone: Writer for the mythical adventures
-- :tv: Bing-watching and DIY videos all day long
+- :tv: Binge-watching and DIY videos all day long
 
 
 
 
-## I am decentralized on:
+### I am decentralized on:
 
 <p align="center"> 
 
